@@ -21,34 +21,30 @@ Se usan almohadillas o hashtags (`#`). A más hashtags, más pequeño es el tít
 
 ### 3. Listas
 
-* **Desordenadas**: Usa asteriscos, más o guiones (`*`, `+`, `-`).
-* **Ordenadas**: Simplemente usa números seguidos de un punto (`1.`, `2.`).
+* **Desordenadas**: *Usa asteriscos, más o guiones* (`*`, `+`, `-`).
+* **Ordenadas**: *Simplemente usa números seguidos de un punto* (`1.`, `2.`).
 * **Listas de tareas**:
-* [x] Tarea terminada.
-* [ ] Tarea pendiente.
+* [x] **Tarea terminada**.
+* [ ] **Tarea pendiente**.
 
 
 
 ### 4. Enlaces e Imágenes
 
 * **Enlace**: `[Nombre del sitio](https://url.com)`
-* **Imagen**: Es igual, pero con un signo de exclamación al principio: `![Texto alternativo](url_de_la_imagen.jpg)`
+* **Imagen**: *Es igual, pero con un signo de exclamación al principio*: `![Texto alternativo](url_de_la_imagen.jpg)`
 
 ### 5. Código y Citas
 
-* **Código en línea**: Usa comillas simples invertidas para resaltar `palabras técnicas`.
-* **Bloque de código**: Usa tres comillas invertidas (backticks) al principio y al final.
-* **Citas**: Usa el signo de mayor que (`>`) para crear bloques de texto resaltados.
+* **Código en línea**: *Usa comillas simples invertidas para resaltar* `palabras técnicas`.
+* **Bloque de código**: *Usa tres comillas invertidas (backticks) al principio y al final*.
+* **Citas**: *Usa el signo de mayor que (`>`) para crear bloques de texto resaltados*.
 
 ### 6. Tablas
 
-Se construyen con tuberías (`|`) y guiones (`-`):
+*Se construyen con tuberías (`|`) y guiones (`-`)*:
 
 | Herramienta | Facilidad |
 | --- | --- |
 | Markdown | Alta |
 | HTML | Media |
-
----
-
-¿Te gustaría que te ayude a formatear algún texto específico o que profundicemos en algún truco avanzado (como las ecuaciones)?
