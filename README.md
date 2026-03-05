@@ -33,7 +33,7 @@ Se usan almohadillas o hashtags (`#`). A más hashtags, más pequeño es el tít
 
 * **Enlace**: `[Nombre del sitio](https://url.com)`
 * **Imagen**: *Es igual, pero con un signo de exclamación al principio*: `![Texto alternativo](url_de_la_imagen.jpg)`
-
+* ![momo en silla de ruedas](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFQ-RSvvLl7j96axXkkxd0Jmh4bX7tooinkA&s)
 ### 5. Código y Citas
 
 * **Código en línea**: *Usa comillas simples invertidas para resaltar* `palabras técnicas`.
